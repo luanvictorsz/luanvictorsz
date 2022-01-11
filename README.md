@@ -8,3 +8,4 @@ Meu Nome é Luan Victor, Programador Independente de jogos, Pixel Artista e Estu
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
+___________________________________________________________________________________________________________________________________________________________________________________
