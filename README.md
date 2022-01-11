@@ -9,3 +9,4 @@ Meu Nome é Luan Victor, Programador Independente de jogos, Pixel Artista e Estu
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 ___________________________________________________________________________________________________________________________________________________________________________________
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
