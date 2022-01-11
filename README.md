@@ -1,6 +1,6 @@
 ### Oie, Seja Bem Vindo ao Meu perfil! 👋 ☺️<h1>
 
-Meu Nome é Luan Victor, Desenvlvedor independente de jogos
+Meu Nome é Luan Victor, Desenvolvedor independente de jogos
 <!--
 **luanvitorsz/luanvitorsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
