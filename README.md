@@ -1,4 +1,4 @@
-***Oie, Bem Vindos ao Meu Perfil<h1>
+Oie, Bem Vindos ao Meu Perfil<h1>
   
 Meu Nome é Luan Victor, Programador Independente de jogos, Pixel Artista e Estudante de Python.<br>
 
