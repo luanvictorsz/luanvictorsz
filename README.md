@@ -35,7 +35,7 @@
 <div style = "display: inline_block"><div style = "display: inline_block" align = "center">
 <a href="https://twitter.com/SoyLuluzin/" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/2619/PNG/128/among_us_twitter_icon_156932.png" width ="50px" height="50px">
 <a href="https://instagram.com/gothellsz/" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/2619/PNG/128/among_us_instagram_icon_156925.png" width ="50px" height="50px">
-<a href="" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/2619/PNG/128/among_us_twitch_icon_156931.png" width ="50px" height="50px">
-<a href=" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/2619/PNG/128/among_us_discord_icon_156922.png" width ="50px" height="50px">
-<a href=" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/2619/PNG/128/among_us_facebook_icon_156924.png" width ="50px" height="50px">
+<a href="" rel="noopener noreferrer"><img src ="https://cdn.icon-icons.com/icons2/2619/PNG/128/among_us_twitch_icon_156931.png" width ="50px" height="50px">
+<a href="" rel="noopener noreferrer"><img src= "https://cdn.icon-icons.com/icons2/2619/PNG/128/among_us_discord_icon_156922.png" width ="50px" height="50px">
+<a href="" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/2619/PNG/128/among_us_facebook_icon_156924.png" width ="50px" height="50px">
 </div>
