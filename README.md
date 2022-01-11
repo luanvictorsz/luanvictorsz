@@ -32,7 +32,7 @@
 
 
 ## Redes Sociais!
-<div style = "display: inline_block"><div style = "display: inline_block" width = "25" height = "25">
+<div style = "display: inline_block"><div style = "display: inline_block" align = "center">
 &nbsp; <a href="https://twitter.com/SoyLuluzin/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/1294/PNG/128/2362131-media-social-topic-trend-tweet-twitt_85525.png">
 &nbsp; <a href="https://instagram.com/gothellsz/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/1294/PNG/128/2362135-instagram-photo-round-social_85523.png">
 &nbsp; <a href="https://instagram.com/gothellsz/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/1294/PNG/128/2362133-logo-photo-pin-pinterest_85527.png">
