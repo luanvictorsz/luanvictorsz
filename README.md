@@ -16,7 +16,7 @@
 <img align = "center" alt = "sublimeText" src = "https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
 
 
-##Status:
+## Status:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luanvitorsz&show_icons=true&theme=radical)
 
 
