@@ -33,4 +33,4 @@
 
 ## Redes Sociais!
 
-&nbsp; <a href="https://twitter.com/SoyLuluzin/" target="_blank" rel="noopener noreferrer"><img src="<i class="icofont-twitter"></i>"/></a>
+&nbsp; <a href="https://twitter.com/SoyLuluzin/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/1294/PNG/128/2362131-media-social-topic-trend-tweet-twitt_85525.png">
