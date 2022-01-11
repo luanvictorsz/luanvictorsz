@@ -1,7 +1,6 @@
 ### Oie, Seja Bem Vindo ao Meu perfil! 👋 ☺️<h1>
 
 Meu Nome é Luan Victor, Desenvolvedor independente de jogos, uma paixão de infância
-  <img src="https://document-export.canva.com/qUUoc/DAE0lVqUUoc/33/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20220110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220110T175750Z&X-Amz-Expires=74857&X-Amz-Signature=b6f16d3207c0cb7682f45b5f5aec0f488c578000f193437a340ffd504bb6640f&X-Amz-SignedHeaders=host&response-expires=Tue%2C%2011%20Jan%202022%2014%3A45%3A27%20GMT">
 <!--
 **luanvitorsz/luanvitorsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
