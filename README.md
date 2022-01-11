@@ -1,18 +1,11 @@
-### **Oie, Seja Bem Vindo ao Meu perfil!** 👋 ☺️<h1>
-
-Meu Nome é Luan Victor, Desenvolvedor independente de jogos, Pixel Artista, e estudante de Python.<br>
-Aos poucos vou organizando meu perfil aqui...
-<!--
-**luanvitorsz/luanvitorsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<html>
+  <head
+   <meta charset="utf-8">
+  </head>
+<body id="Pagina">
+  <div id="Titulo">
+    <h1> Oie, Bem Vindos ao meu perfil </h1>
+  </div>
+  <div id="Perfil">
+    <p>Meu Nome é Luan Victor, tenho 21 anos. <br> Desenvolvedor Independente de jogos, Pixel Artista e Estudante de Python.<br>
+  </div>
