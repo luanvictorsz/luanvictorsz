@@ -1,7 +1,7 @@
 ### **Oie, Seja Bem Vindo ao Meu perfil!** 👋 ☺️<h1>
 
 Meu Nome é Luan Victor, Desenvolvedor independente de jogos, Pixel Artista, e estudante de Python.<br>
-Aos poucos vou organizando meu perfil aqui 😅
+Aos poucos vou organizando meu perfil aqui...
 <!--
 **luanvitorsz/luanvitorsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
