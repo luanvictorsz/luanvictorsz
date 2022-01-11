@@ -1,6 +1,7 @@
 ### Oie, Seja Bem Vindo ao Meu perfil! 👋 ☺️<h1>
 
 Meu Nome é Luan Victor, Desenvolvedor independente de jogos, uma paixão de infância 
+<img src "https://www.canva.com/design/DAE0lVqUUoc/W316BEJOl_YSt-wFQarRBw/view?utm_content=DAE0lVqUUoc&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu">
 <!--
 **luanvitorsz/luanvitorsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
