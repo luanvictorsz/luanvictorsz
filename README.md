@@ -1,8 +1,8 @@
 *Oie, Sou Luan Victor!
 
-🎮 Desenvolvedor Independente de Jogos* 
-👾 Pixel Artista Iniciante* 
-🖥️ Estudante de Phyton*
+🎮 Desenvolvedor Independente de Jogos<br>
+👾 Pixel Artista Iniciante<br>
+🖥️ Estudante de Phyton<br>
 
 
 
