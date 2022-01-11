@@ -39,7 +39,7 @@
 <a href="https://instagram.com/gothellsz/" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/2619/PNG/128/among_us_instagram_icon_156925.png" width ="75px" height="70px">
 <a href="https://instagram.com/gothellsz/" rel="noopener noreferrer"><img src ="https://cdn.icon-icons.com/icons2/2619/PNG/128/among_us_twitch_icon_156931.png" width ="75px" height="70px">
 <a href="https://instagram.com/gothellsz/" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/2619/PNG/128/among_us_facebook_icon_156924.png" width ="75px" height="70px">
-<a href="https://instagram.com/gothellsz/" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/2619/PNG/256/among_us_reddit_icon_156923.png" width ="75px" height="70px">
+<a href="https://instagram.com/gothellsz/" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/2619/PNG/256/among_us_reddit_icon_156923.png" width ="75px" height="75px">
 <a href="https://instagram.com/gothellsz/" rel="noopener noreferrer"><img src= "https://cdn.icon-icons.com/icons2/2619/PNG/128/among_us_discord_icon_156922.png" width ="99px" height="70px">
   
   
