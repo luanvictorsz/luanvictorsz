@@ -32,4 +32,5 @@
 
 
 ## Redes Sociais!
-### em breve...
+
+&nbsp; <a href="https://twitter.com/SoyLuluzin/" target="_blank" rel="noopener noreferrer"><img src="<i class="icofont-twitter"></i>"/></a>
