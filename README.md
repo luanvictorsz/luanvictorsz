@@ -1,4 +1,4 @@
-### Oie, Seja Bem Vindo ao Meu perfil! 👋<h1>
+### Oie, Seja Bem Vindo ao Meu perfil! 👋 ☺️<h1>
 
 ###Meu Nome é Luan Victor, Desenvlvedor independente de jogos
 Arrico
