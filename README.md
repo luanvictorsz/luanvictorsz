@@ -1,8 +1,10 @@
 <h1>Oie, Sou Luan Victor!</h1>
 
-🎮 - Desenvolvedor Independente de Jogos<br>
-👾 - Pixel Artista Iniciante<br>
-🖥️ - Estudante de Phyton<br>
+🦸 - Amante de Historias em Quadrinhos.<br>
+🎮 - Desenvolvedor Independente de Jogos.<br>
+🍵 - Viciado em Chá Gelado de Morango.<br>
+👾 - Um Pixel Artista Iniciante.<br>
+🖥️ - Estudante de Phyton.<br>
 
 
 
