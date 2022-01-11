@@ -28,7 +28,7 @@
  </div>
    
 ## Status:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=luanvitorsz&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luanvictorsz&show_icons=true&theme=radical)
 
 
 ## Redes Sociais!
