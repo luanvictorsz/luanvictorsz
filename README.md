@@ -14,4 +14,7 @@
 <img align = "center" alt = "photoshop" src = "https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
 <img align = "center" alt = "blender" src = "https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
 <img align = "center" alt = "sublimeText" src = "https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-___________________________________________________________________________________________________________________________________________________________________________________
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luanvitorsz&show_icons=true&theme=radical)
+## Redes Sociais!
