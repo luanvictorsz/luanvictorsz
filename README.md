@@ -1,4 +1,4 @@
-*Oie, Sou Luan Victor!
+Oie, Sou Luan Victor!
 
 🎮 Desenvolvedor Independente de Jogos<br>
 👾 Pixel Artista Iniciante<br>
