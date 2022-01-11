@@ -7,7 +7,7 @@
 👾 - Um Pixel Artista Iniciante.<br>
 
 
-## Minhas Ferramentas...
+## Minhas Ferramentas:
 
 <div style = "display: inline_block"><div style = "display: inline_block">
 <img align = "center" alt = "vscode" src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -17,6 +17,12 @@
 <img align = "center" alt = "blender" src = "https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
 <img align = "center" alt = "unity" src = "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 </div>
+  
+ ## Linguagens de Programação:
+ <div align = "center" alt = "c#" src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+ <div align = "center" alt = "css" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+ <div align = "center" alt = "html" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <div align = "center" alt = "Javascript" src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
 ## Status:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luanvitorsz&show_icons=true&theme=radical)
