@@ -27,7 +27,7 @@
  <img align = "center" alt = "Javascript" src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
  </div>
    
-   
+
 ## Status:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luanvictorsz&show_icons=true&theme=radical)
 
