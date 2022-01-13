@@ -9,7 +9,7 @@
 
 ## Ferramentas:
 
-<div style = "display: inline_block"><div style = "display: inline_block">
+<div style = "display: inline_block">
 <img align = "center" alt = "unity" src = "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 <img align = "center" alt = "blender" src = "https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
 <img align = "center" alt = "pycharm" src = "https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
