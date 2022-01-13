@@ -34,13 +34,10 @@
 
 
 ## Redes Sociais!
-<div style = "display: inline_block"><div style = "display: inline_block" align = "center">
+<div style = "display: inline_block" align = "center">
 <a href="https://twitter.com/SoyLuluzin/" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/2619/PNG/128/among_us_twitter_icon_156932.png" width ="70px" height="70px">
 <a href="https://instagram.com/gothellsz/" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/2619/PNG/128/among_us_instagram_icon_156925.png" width ="70px" height="70px">
 <a href="https://www.twitch.tv/luluzin_sz" rel="noopener noreferrer"><img src ="https://cdn.icon-icons.com/icons2/2619/PNG/128/among_us_twitch_icon_156931.png" width ="70px" height="70px">
 <a href="https://www.facebook.com/profile.php?id=100024295397029" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/2619/PNG/128/among_us_facebook_icon_156924.png" width ="70px" height="70px">
-<a href="https://www.reddit.com/user/AdventurousLoss3279" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/2619/PNG/256/among_us_reddit_icon_156923.png" width ="70px" height="80px">
-
-  
-  
+<a href="https://www.reddit.com/user/AdventurousLoss3279" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/2619/PNG/256/among_us_reddit_icon_156923.png" width ="70px" height="80px"> 
 </div>
