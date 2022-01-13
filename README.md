@@ -31,11 +31,8 @@
 ## Status:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luanvictorsz&show_icons=true&theme=radical)
 
-<p align="center">
-  <a href="https://github.com/CarlosViniMSouza/">
-    <img width="60%" src="https://github.com/luanvictorsz/luanvictorsz/blob/main/github-metrics.svg"/>
-  </a>
-</p>
+![GIF](https://raw.githubusercontent.com/CarlosViniMSouza/CarlosViniMSouza/output/github-contribution-grid-snake.svg)
+
 
 
 ## Redes Sociais!
