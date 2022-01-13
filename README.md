@@ -41,5 +41,4 @@
 <a href="https://www.reddit.com/user/AdventurousLoss3279" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/2619/PNG/256/among_us_reddit_icon_156923.png" width ="70px" height="80px"> 
 </div>
   
-![GIF](https://raw.githubusercontent.com/luanvictorsz/luanvictorsz/output/github-contribution-grid-snake.svg)
 
