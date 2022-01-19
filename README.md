@@ -44,4 +44,4 @@
 
   ##Veja:
   
-  git remote add upstream git@github.com:braziljs/eloquente-javascript.git
+ -git remote add upstream git@github.com:braziljs/eloquente-javascript.git
