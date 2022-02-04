@@ -37,11 +37,3 @@
 <a href="https://www.facebook.com/profile.php?id=100024295397029" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/2619/PNG/128/among_us_facebook_icon_156924.png" width ="70px" height="70px">
 <a href="https://www.reddit.com/user/AdventurousLoss3279" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/2619/PNG/256/among_us_reddit_icon_156923.png" width ="70px" height="80px"> 
 </div>
- 
-  
-  
-  
-  
-  
-  
-  
