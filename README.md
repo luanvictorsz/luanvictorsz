@@ -7,14 +7,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=C#,.NET,ASP,Blazor,sqlServer,mysql,mongodb,git,webpack,eslint,java,figma,npm,vscode"
-    />
-  </a>
-</div>
-
 ###
 
 <div align="center">
