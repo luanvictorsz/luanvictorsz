@@ -1,4 +1,4 @@
-<h2 align="center">Hi! My name is Luan Victor and I'm a Full-Stack Developer</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hi!+My+name+is+Luan+Victor+and+I'm+a+Full-Stack+Developer)](https://git.io/typing-svg)
 
 ###
 
