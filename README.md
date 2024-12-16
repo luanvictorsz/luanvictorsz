@@ -2,7 +2,7 @@
 
 ###
 
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a3ternusPoison&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a3ternusPoison&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luanvictorsz&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanvictorsz&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 | ----------- | ----------- |
 
 ###
