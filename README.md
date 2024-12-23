@@ -6,7 +6,7 @@
 
 ###
 <div align="center">
-  https://c.tenor.com/zO1GkEu-fMcAAAAd/tenor.gif
+  <img src="https://c.tenor.com/zO1GkEu-fMcAAAAd/tenor.gif"/>
 </div>
 ###
 
