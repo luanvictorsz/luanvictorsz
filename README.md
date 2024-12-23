@@ -1,14 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1F700&width=435&lines=Hello%2C+I'm+L.+Victor;A+fullstack+Developer)](https://git.io/typing-svg)
 
 ###
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luanvictorsz&theme=2077&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanvictorsz&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
-| ----------- | ----------- |
-
-###
 <div align="center">
   <img src="https://c.tenor.com/zO1GkEu-fMcAAAAd/tenor.gif"/>
 </div>
+
 ###
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luanvictorsz&theme=2077&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanvictorsz&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| ----------- | ----------- |
+
 
 <div align="center">
   <a href="mailto:luanvitorlima2017@gmail.com" target="_blank">
