@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hi%2C+i'm+Luan+Victor;a+Fullstack+Developer)](https://git.io/typing-svg)
 
 ###
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luanvictorsz&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanvictorsz&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luanvictorsz&theme=2077&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanvictorsz&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 | ----------- | ----------- |
 
 ###
