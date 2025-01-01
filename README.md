@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1F700&width=435&lines=Hello%2C+I'm+L.+Victor;A+fullstack+Developer)](https://git.io/typing-svg)
 
-Graduado em Analise e desenvolvimento de sistemas<br/>
+Graduado em Desenvolvimento Web<br/>
 Escrevo alguns trabalhos academicos na Academia.edu<br/>
 Apaixonado por Sci-fi e Astronomia<br/>
 Atuamente aprendendo Francês<br/>
