@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1F700&width=435&lines=Hello%2C+I'm+L.+Victor;A+fullstack+Developer)](https://git.io/typing-svg)
 
 
-I actively participate in game jams, creating unique and fun games in a weekend.
+I actively participate in game jams, creating fun games in a weekend.
 
 I am graduated in Web Developer (Technical Course)
 
