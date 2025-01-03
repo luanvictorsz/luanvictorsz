@@ -18,5 +18,9 @@ I work in Freelance’s
 [![Instagram Badge](https://img.shields.io/badge/-AeternusPoison-262671?style=flat-square&labelColor=262671&logo=instagram&logoColor=white)](https://www.instagram.com/aeternuspoison/)
 [![GMail Badge](https://img.shields.io/badge/luanvitorlima2017@gmail.com-262671?style=flat-square&labelColor=262671&logo=gmail&logoColor=fff)](mailto:luanvitorlima2017@gmail.com)
 
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luanvictorsz&theme=2077&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanvictorsz&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
-| ----------- | ----------- |
+
+[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luanvictorsz&theme=2077&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![GitHub Detail](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luanvictorsz&theme=2077&utcOffset=-3)
+[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanvictorsz&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
