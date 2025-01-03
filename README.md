@@ -20,9 +20,12 @@ I work in Freelance’s
 
 | Github Commits | Github Details |
 | ------------- | ------------- |
-| ![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luanvictorsz&theme=2077&utcOffset=-3) | ![GitHub Detail](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luanvictorsz&theme=2077&utcOffset=-3) |
+| ![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luanvictorsz&theme=2077&utcOffset=-3) | ![GitHub Detail](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luanvictorsz&theme=2077&utcOffset=-3) 
+
+| Profile details card |
+| ------------- |
+| [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanvictorsz&theme=2077&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  |
 
 
-[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanvictorsz&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
