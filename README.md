@@ -29,4 +29,5 @@ I work in Freelance’s
 
 ##
 
+Publicação de trabalhos academicos na academia.edu aos sábados, 7:00 Horas da noite.
 
