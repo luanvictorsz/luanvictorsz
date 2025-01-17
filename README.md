@@ -29,5 +29,5 @@ I work in Freelance’s
 
 ##
 
-Publicação de trabalhos academicos na [Academia.edu](https://independent.academia.edu/luanvitordev)
+Publishing academic works on [Academia.edu](https://independent.academia.edu/luanvitordev)
 
