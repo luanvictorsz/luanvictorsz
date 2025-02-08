@@ -52,3 +52,5 @@ I work in Freelance’s
 
 Publishing academic works on [Academia.edu](https://independent.academia.edu/luanvitordev)
 
+obs: sem commits hoje, dia de estudar para prova (concurso publico)
+
