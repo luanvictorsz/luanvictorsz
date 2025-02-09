@@ -30,11 +30,11 @@ I work in Freelance’s
 <h3>Linguagens:</h3>
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"/>
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdudKjF89qrI5ZFqkztCzLcOmxb-8BClCkXUEX1Jdaog&s" height="30" alt="java logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdudKjF89qrI5ZFqkztCzLcOmxb-8BClCkXUEX1Jdaog&s" height="30"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
   <img width="12" />
 </div>
 
@@ -42,13 +42,13 @@ I work in Freelance’s
 <h3>Bibiotecas e frameworks:</h3>
 
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="30" alt="csharp logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="30"/>
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="30" alt="csharp logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="30"/>
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="30" alt="csharp logo"  />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="30"/>
   <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
   <img width="12" />
 </div>
 
@@ -56,13 +56,13 @@ I work in Freelance’s
 
 <h3>Banco de dados:</h3>
 <div>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="30" alt="csharp logo"  />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="30"/>
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="30" alt="csharp logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="30" alt="mysql logo"  />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="30"/>
   <img width="12" />
 </div>
 
@@ -71,21 +71,21 @@ I work in Freelance’s
 <h3>Outros:</h3>
 
 <div>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="csharp logo"  />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" />
   <img width="12" />
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" height="30" alt="csharp logo"  />
+  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" height="30"/>
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="30" alt="csharp logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="30"/>
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30"/>
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="30" alt="csharp logo"  />
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="30"/>
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="30" alt="csharp logo"  />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="30"/>
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="30" alt="csharp logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="30"/>
   <img width="12" />
 </div>
 
@@ -94,7 +94,7 @@ I work in Freelance’s
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/luanvictorsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="luanvictorsz" height="30" width="40" /></a>
-<a href="https://medium.com/luanvictorsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="luanvictorsz" height="30" width="40" /></a>
+<a href="https://medium.com/@luanvictorsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="luanvictorsz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/luanvictorsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luanvictorsz" height="30" width="40" /></a>
 </p>
 
