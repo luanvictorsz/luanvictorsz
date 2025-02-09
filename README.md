@@ -79,8 +79,6 @@ I work in Freelance’s
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="30"/>
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="30"/>
-  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="30"/>
