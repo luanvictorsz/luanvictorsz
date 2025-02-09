@@ -60,8 +60,6 @@ I work in Freelance’s
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
-  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="30"/>
   <img width="12" />
 </div>
@@ -93,7 +91,7 @@ I work in Freelance’s
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/luanvictorsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="luanvictorsz" height="30" width="40" /></a>
+<a href="https://dev.to/@luanvictorsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="luanvictorsz" height="30" width="40" /></a>
 <a href="https://medium.com/@luanvictorsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="luanvictorsz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/luanvictorsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luanvictorsz" height="30" width="40" /></a>
 </p>
