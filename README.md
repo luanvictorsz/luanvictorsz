@@ -98,6 +98,7 @@ I work in Freelance’s
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luanvictorsz" alt="luanvictorsz" /></a> </p>
 
 Publishing academic works on [Academia.edu](https://independent.academia.edu/luanvitordev)
+<br/>Others links: [Aeternus.Poison](https://linktr.ee/aeternuspoison)
 
 
 
