@@ -26,76 +26,49 @@ I work in Freelance’s
 | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanvictorsz&theme=2077&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  |
 
 ##
-<h3>Linguagens:</h3>
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"/>
-  <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdudKjF89qrI5ZFqkztCzLcOmxb-8BClCkXUEX1Jdaog&s" height="30"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img width="12" />
-</div>
-
-##
-<h3>Bibiotecas e frameworks:</h3>
-
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="30"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="30"/>
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="30"/>
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
-  <img width="12" />
-</div>
-
-##
-
-<h3>Banco de dados:</h3>
-<div>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="30"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="30" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="30"/>
-  <img width="12" />
-</div>
-
-##
-
-<h3>Outros:</h3>
-
-<div>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" />
-  <img width="12" />
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" height="30"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="30"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30"/>
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="30"/>
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30"  />
-  <img width="12" />
-</div>
-
-##
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/@luanvictorsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="luanvictorsz" height="30" width="40" /></a>
-<a href="https://medium.com/@luanvictorsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="luanvictorsz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/luanvictorsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luanvictorsz" height="30" width="40" /></a>
+<p align="center">
+  <h3>Programming Languages:<h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,javascript,nodejs" />
+  </a>
 </p>
 
+##
+
+<p align="center">
+  <h3>Libraries and frameworks:<h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,bootstrap,dotnet,nextjs,react,tailwind" />
+  </a>
+</p>
 
 ##
 
-Publishing academic works on [Academia.edu](https://independent.academia.edu/luanvitordev)
-<br/>Others links: [Aeternus.Poison](https://linktr.ee/aeternuspoison)
+<p align="center">
+  <h3>Database:<h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres" />
+  </a>
+</p>
+
+##
+
+<p align="center">
+  <h3>Gamedev:<h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,gamemakerstudio,godot,ps,ae,ai,blender" />
+  </a>
+</p>
+
+##
+
+<h3 align="left">Connect with me:</h3
+                                   
+My Links: [Aeternus.Poison](https://linktr.ee/aeternuspoison)
+<br/>Publishing academic works on [Academia.edu](https://independent.academia.edu/luanvitordev)
+##
+
+
 
 
 
