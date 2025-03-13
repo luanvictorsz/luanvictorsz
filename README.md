@@ -36,18 +36,18 @@ I work in Freelance’s
 ##
 
 <p align="center">
-  <h3>Libraries and frameworks:<h3>
+  <h3>Database:<h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,bootstrap,dotnet,nextjs,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres" />
   </a>
 </p>
 
 ##
 
 <p align="center">
-  <h3>Database:<h3>
+  <h3>Libraries and frameworks:<h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres" />
+    <img src="https://skillicons.dev/icons?i=spring,bootstrap,dotnet,nextjs,react,tailwind" />
   </a>
 </p>
 
