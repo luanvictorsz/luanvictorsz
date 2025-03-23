@@ -67,3 +67,5 @@ I work in Freelance’s
 My Links: [Aeternus.Poison](https://linktr.ee/aeternuspoison)
 <br/>Publishing academic works on [Academia.edu](https://independent.academia.edu/luanvitordev)
 ##
+
+obs: o foco dos estudos de hoje foi relacionado a astronomia, após edição do texto, será publicada na pagina da medium, disponivel nos meus links acima
