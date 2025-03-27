@@ -67,5 +67,3 @@ I work in Freelance’s
 My Links: [Aeternus.Poison](https://linktr.ee/aeternuspoison)
 <br/>Publishing academic works on [Academia.edu](https://independent.academia.edu/luanvitordev)
 ##
-
-devido a formatação, precisei reconfigurar... sem commits de codigo hj
