@@ -52,7 +52,6 @@ I work in Freelance’s
 </p>
 
 ##
-
 <p align="center">
   <h3>Gamedev:<h3>
   <a href="https://skillicons.dev">
