@@ -1,5 +1,3 @@
-realizei a formatação e upgrade de desktop, vou estudar java e tentar publicar o commit ainda hoje
-
 <img align="right" src="./images/user.png" width="350" style="padding: 50px">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1F700&width=435&lines=Hello%2C+I'm+L.+Victor;A+fullstack+Developer)](https://git.io/typing-svg)
