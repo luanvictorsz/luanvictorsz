@@ -1,6 +1,3 @@
-[![Instagram Badge](https://img.shields.io/badge/-AeternusPoison-262671?style=flat-square&labelColor=262671&logo=instagram&logoColor=white)](https://www.instagram.com/aeternuspoison/)
-[![GMail Badge](https://img.shields.io/badge/luanvitorlima2017@gmail.com-262671?style=flat-square&labelColor=262671&logo=gmail&logoColor=fff)](mailto:luanvitorlima2017@gmail.com)
-
 ##
 
 | Github Commits | Github Details |
