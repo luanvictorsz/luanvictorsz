@@ -12,6 +12,6 @@
 
 <h3 align="left">Connect with me:</h3
                                    
-My Links: [Aeternus.Poison](https://linktr.ee/aeternuspoison)
+My Links: [Aeternus.Poison](https://linktr.ee/aeternuspoison)</br>
 Publishing academic works on [Academia.edu](https://independent.academia.edu/luanvitordev)
 ##
