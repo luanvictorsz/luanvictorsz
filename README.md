@@ -14,4 +14,4 @@
                                    
 My Links: [Aeternus.Poison](https://aeternuspoison.netlify.app/)</br>
 Publishing academic works on [Academia.edu](https://independent.academia.edu/luanvitordev)
-##
+
