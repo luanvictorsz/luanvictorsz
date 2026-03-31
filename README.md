@@ -18,7 +18,7 @@
 > STATUS: [NETRUNNER ONLINE] ◈
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=%3E+NETRUNNER+%2F+DEVELOPER+%2F+HACKER;%3E+JACKING+INTO+THE+GRID...;%3E+TRILHA+REDE+INICIADA;%3E+GHOST+IN+THE+MACHINE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=%3E+NETRUNNER+%2F+DEVELOPER+%2F+TRILHA REDE;%3E+JACKING+INTO+THE+GRID...;%3E+TRILHA+REDE+INICIADA;%3E+GHOST+IN+THE+MACHINE" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/◈_NEURAL_LINK-Aeternus.Poison-00FF9C?style=for-the-badge&logo=netlify&logoColor=000&labelColor=0D0D0D)](https://aeternuspoison.netlify.app/)
 [![Academia](https://img.shields.io/badge/◈_DATABANK-Academia.edu-FF003C?style=for-the-badge&logo=academia&logoColor=FFF&labelColor=0D0D0D)](https://independent.academia.edu/luanvitordev)
