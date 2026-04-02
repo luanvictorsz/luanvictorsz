@@ -156,3 +156,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=luanvictorsz&color=00ff9c&style=flat-square&label=◈+INTRUDERS+DETECTED)
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luanvictorsz/luanvictorsz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luanvictorsz/luanvictorsz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luanvictorsz/luanvictorsz/output/pacman-contribution-graph.svg">
+</picture>
+
+
