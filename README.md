@@ -20,6 +20,36 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=%3E+NETRUNNER+%2F+DEVELOPER+%2F+TRILHA+REDE;%3E+JACKING+INTO+THE+GRID...;%3E+TRILHA+REDE+INICIADA;%3E+GHOST+IN+THE+MACHINE" alt="Typing SVG" />
 
+
+---
+
+## `> SYSTEM_STATS.log`
+
+```
+> FETCHING GRID ACTIVITY FROM luanvictorsz...
+> DECRYPTING COMMIT HISTORY...
+> RENDERING OUTPUT...
+```
+
+<div align="center">
+
+| `[ CHRONO_COMMITS ]` | `[ REPO_MATRIX ]` |
+|:---:|:---:|
+| ![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luanvictorsz&theme=2077&utcOffset=-3) | ![GitHub Detail](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luanvictorsz&theme=2077&utcOffset=-3) |
+
+```
+╔══════════════════════════════════════╗
+║       [ FULL PROFILE SCAN ]          ║
+╚══════════════════════════════════════╝
+```
+
+[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanvictorsz&theme=2077&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
+---
+
+
 [![Portfolio](https://img.shields.io/badge/◈_NEURAL_LINK-Aeternus.Poison-00FF9C?style=for-the-badge&logo=netlify&logoColor=000&labelColor=0D0D0D)](https://aeternuspoison.netlify.app/)
 [![Academia](https://img.shields.io/badge/◈_DATABANK-Academia.edu-FF003C?style=for-the-badge&logo=academia&logoColor=FFF&labelColor=0D0D0D)](https://independent.academia.edu/luanvitordev)
 [![GitHub](https://img.shields.io/badge/◈_GHOST_ID-luanvictorsz-FFE600?style=for-the-badge&logo=github&logoColor=000&labelColor=0D0D0D)](https://github.com/luanvictorsz)
@@ -83,34 +113,6 @@
 ![After Effects](https://img.shields.io/badge/After_Effects-9B59B6?style=for-the-badge&logo=adobe-after-effects&logoColor=fff)
 
 </div>
-
----
-
-## `> SYSTEM_STATS.log`
-
-```
-> FETCHING GRID ACTIVITY FROM luanvictorsz...
-> DECRYPTING COMMIT HISTORY...
-> RENDERING OUTPUT...
-```
-
-<div align="center">
-
-| `[ CHRONO_COMMITS ]` | `[ REPO_MATRIX ]` |
-|:---:|:---:|
-| ![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luanvictorsz&theme=2077&utcOffset=-3) | ![GitHub Detail](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luanvictorsz&theme=2077&utcOffset=-3) |
-
-```
-╔══════════════════════════════════════╗
-║       [ FULL PROFILE SCAN ]          ║
-╚══════════════════════════════════════╝
-```
-
-[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanvictorsz&theme=2077&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-</div>
-
----
 
 ## `> UPLINK.cfg`
 
