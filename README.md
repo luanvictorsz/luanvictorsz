@@ -108,7 +108,7 @@
 > MODULE_05: DESIGN_SUITE
 ```
 
-![Aseprite](https://img.shields.io/badge/Aseprite-FF003C?style=for-the-badge&logo=aseprite&logoColor=fff)
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 ![Photoshop](https://img.shields.io/badge/Photoshop-00BFFF?style=for-the-badge&logo=adobe-photoshop&logoColor=fff)
 ![After Effects](https://img.shields.io/badge/After_Effects-9B59B6?style=for-the-badge&logo=adobe-after-effects&logoColor=fff)
 
