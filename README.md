@@ -84,8 +84,8 @@
 > MODULE_02: FRAMEWORKS & BACKEND
 ```
 
-![React](https://img.shields.io/badge/React-FF003C?style=for-the-badge&logo=react&logoColor=fff)
-![Angular](https://img.shields.io/badge/Angular-FFE600?style=for-the-badge&logo=angular&logoColor=000)
+![React](https://img.shields.io/badge/React-48cae4?style=for-the-badge&logo=react&logoColor=fff)
+![Angular](https://img.shields.io/badge/Angular-FF003C?style=for-the-badge&logo=angular&logoColor=000)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-00FF9C?style=for-the-badge&logo=dotnet&logoColor=000)
 
 ```
@@ -100,9 +100,9 @@
 > MODULE_04: GAMEDEV_ENGINES
 ```
 
-![Godot](https://img.shields.io/badge/Godot-00FF9C?style=for-the-badge&logo=godot-engine&logoColor=000)
-![Unity](https://img.shields.io/badge/Unity-FFE600?style=for-the-badge&logo=unity&logoColor=000)
-![GameMaker](https://img.shields.io/badge/GameMaker-FF003C?style=for-the-badge&logo=gamemaker&logoColor=fff)
+![Godot](https://img.shields.io/badge/Godot-0096C7?style=for-the-badge&logo=godot-engine&logoColor=000)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000)
+![GameMaker](https://img.shields.io/badge/GameMaker-0077b6?style=for-the-badge&logo=gamemaker&logoColor=fff)
 
 ```
 > MODULE_05: DESIGN_SUITE
