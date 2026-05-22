@@ -1,154 +1,52 @@
-<!-- CYBERPUNK 2077 - HACKER THEME -->
-
-<div align="center">
-<!-- 
-```
- █████╗ ███████╗████████╗███████╗██████╗ ███╗   ██╗██╗   ██╗███████╗
-██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔══██╗████╗  ██║██║   ██║██╔════╝
-███████║█████╗     ██║   █████╗  ██████╔╝██╔██╗ ██║██║   ██║███████╗
-██╔══██║██╔══╝     ██║   ██╔══╝  ██╔══██╗██║╚██╗██║██║   ██║╚════██║
-██║  ██║███████╗   ██║   ███████╗██║  ██║██║ ╚████║╚██████╔╝███████║
-╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝
-```
--->
-<img src="./images/aeternus.png"/>
-
-```
-> INITIALIZING NEURAL LINK...
-> ACCESSING NIGHT CITY MAINFRAME...
-> IDENTITY: luanvictorsz
-> STATUS: [NETRUNNER ONLINE] ◈
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=%3E+NETRUNNER+%2F+DEVELOPER+%2F+TRILHA+REDE;%3E+JACKING+INTO+THE+GRID...;%3E+TRILHA+REDE+INICIADA;%3E+GHOST+IN+THE+MACHINE" alt="Typing SVG" />
-
-
----
-
-## `> SYSTEM_STATS.log`
-
-```
-> FETCHING GRID ACTIVITY FROM luanvictorsz...
-> DECRYPTING COMMIT HISTORY...
-> RENDERING OUTPUT...
-```
-
 <div align="center">
 
-| `[ CHRONO_COMMITS ]` | `[ REPO_MATRIX ]` |
-|:---:|:---:|
-| ![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luanvictorsz&theme=2077&utcOffset=-3) | ![GitHub Detail](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luanvictorsz&theme=2077&utcOffset=-3) |
+# luanvictorsz ◈
 
-```
-╔══════════════════════════════════════╗
-║       [ FULL PROFILE SCAN ]          ║
-╚══════════════════════════════════════╝
-```
+*construindo sistemas*
 
-[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanvictorsz&theme=2077&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aeternuspoison.netlify.app-000?style=flat-square&logo=netlify)](https://aeternuspoison.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-luanvictorsz-000?style=flat-square&logo=github)](https://github.com/luanvictorsz)
+[![Academia](https://img.shields.io/badge/Academia-luanvitordev-000?style=flat-square&logo=academia)](https://independent.academia.edu/luanvitordev)
 
 </div>
 
 ---
 
+## Languages
 
-[![Portfolio](https://img.shields.io/badge/◈_NEURAL_LINK-Aeternus.Poison-00FF9C?style=for-the-badge&logo=netlify&logoColor=000&labelColor=0D0D0D)](https://aeternuspoison.netlify.app/)
-[![Academia](https://img.shields.io/badge/◈_DATABANK-Academia.edu-FF003C?style=for-the-badge&logo=academia&logoColor=FFF&labelColor=0D0D0D)](https://independent.academia.edu/luanvitordev)
-[![GitHub](https://img.shields.io/badge/◈_GHOST_ID-luanvictorsz-FFE600?style=for-the-badge&logo=github&logoColor=000&labelColor=0D0D0D)](https://github.com/luanvictorsz)
+![C#](https://img.shields.io/badge/C%23-000?style=flat-square&logo=csharp)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk)
+![PowerShell](https://img.shields.io/badge/PowerShell-000?style=flat-square&logo=powershell)
 
-</div>
+## Frameworks & Backend
 
----
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/Angular-000?style=flat-square&logo=angular)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-000?style=flat-square&logo=dotnet)
 
-<div align="center">
+## Game Engines
 
-> `// Construindo sistemas`
+![Godot](https://img.shields.io/badge/Godot-000?style=flat-square&logo=godot-engine)
+![Unity](https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity)
+![GameMaker](https://img.shields.io/badge/GameMaker-000?style=flat-square&logo=gamemaker)
 
-</div>
+## Design & Tools
 
----
-
-## `> SKILL_TREE.exe`
-
-<div align="center">
-
-```
-> MODULE_01: LANGUAGES
-```
-
-![C#](https://img.shields.io/badge/C%23-00FF9C?style=for-the-badge&logo=csharp&logoColor=000)
-![Java](https://img.shields.io/badge/Java-FF003C?style=for-the-badge&logo=openjdk&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFE600?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-00BFFF?style=for-the-badge&logo=typescript&logoColor=fff)
-![PowerShell](https://img.shields.io/badge/PowerShell-00FF9C?style=for-the-badge&logo=powershell&logoColor=000)
-
-```
-> MODULE_02: FRAMEWORKS & BACKEND
-```
-
-![React](https://img.shields.io/badge/React-48cae4?style=for-the-badge&logo=react&logoColor=fff)
-![Angular](https://img.shields.io/badge/Angular-FF003C?style=for-the-badge&logo=angular&logoColor=000)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-00FF9C?style=for-the-badge&logo=dotnet&logoColor=000)
-
-```
-> MODULE_03: DEVTOOLS & OS
-```
-
-![Git](https://img.shields.io/badge/Git-FFE600?style=for-the-badge&logo=git&logoColor=000)
-![Linux](https://img.shields.io/badge/Linux-00FF9C?style=for-the-badge&logo=linux&logoColor=000)
-![VSCode](https://img.shields.io/badge/VS_Code-00BFFF?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
-
-```
-> MODULE_04: GAMEDEV_ENGINES
-```
-
-![Godot](https://img.shields.io/badge/Godot-0096C7?style=for-the-badge&logo=godot-engine&logoColor=000)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000)
-![GameMaker](https://img.shields.io/badge/GameMaker-0077b6?style=for-the-badge&logo=gamemaker&logoColor=fff)
-
-```
-> MODULE_05: DESIGN_SUITE
-```
-
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
-![Photoshop](https://img.shields.io/badge/Photoshop-00BFFF?style=for-the-badge&logo=adobe-photoshop&logoColor=fff)
-![After Effects](https://img.shields.io/badge/After_Effects-9B59B6?style=for-the-badge&logo=adobe-after-effects&logoColor=fff)
-
-</div>
-
-## `> UPLINK.cfg`
-
-```
-> ESTABLISHING SECURE CONNECTION...
-> ENCRYPTION: AES-256 ◈ ACTIVE
-> CHANNELS AVAILABLE:
-```
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/◈_MAIN_UPLINK-Aeternus.Poison-00FF9C?style=for-the-badge&labelColor=0D0D0D)](https://aeternuspoison.netlify.app/)
-[![Academia](https://img.shields.io/badge/◈_DATABANK-Academic_Works-FF003C?style=for-the-badge&labelColor=0D0D0D)](https://independent.academia.edu/luanvitordev)
-
-</div>
+![Aseprite](https://img.shields.io/badge/Aseprite-000?style=flat-square&logo=aseprite)
+![Photoshop](https://img.shields.io/badge/Photoshop-000?style=flat-square&logo=adobe-photoshop)
+![After Effects](https://img.shields.io/badge/After_Effects-000?style=flat-square&logo=adobe-after-effects)
+![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git)
+![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux)
+![VS Code](https://img.shields.io/badge/VS_Code-000?style=flat-square&logo=visual-studio-code)
 
 ---
 
 <div align="center">
 
-```
-> SESSION TERMINATING...
-> NEURAL LINK DISCONNECTED
-> UNTIL NEXT TIME, CHOOMBA. STAY GHOST. ◈
-> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanvictorsz&theme=github_dark)
 
-![Profile Views](https://komarev.com/ghpvc/?username=luanvictorsz&color=00ff9c&style=flat-square&label=◈+INTRUDERS+DETECTED)
+![Profile Views](https://komarev.com/ghpvc/?username=luanvictorsz&style=flat-square&label=visitors)
 
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luanvictorsz/luanvictorsz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luanvictorsz/luanvictorsz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luanvictorsz/luanvictorsz/output/pacman-contribution-graph.svg">
-</picture>
-
