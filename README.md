@@ -44,7 +44,6 @@
 <div align="center">
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanvictorsz&theme=github_dark)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=luanvictorsz&style=flat-square&label=visitors)
 
 </div>
