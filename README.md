@@ -1,6 +1,6 @@
 <div align="center">
 
-# Victorsz
+# Aeternus Poison
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aeternuspoison.netlify.app-000?style=flat-square&logo=netlify)](https://aeternuspoison.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-luanvictorsz-000?style=flat-square&logo=github)](https://github.com/luanvictorsz)
